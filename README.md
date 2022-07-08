@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/mtmcode.eu-Website-green?style=social)](https://mtmcode.eu)
 <!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
 &nbsp;
-A passionate fronted developer based in Wroclaw, Poland and also a informatic student. I enjoy creating things that live on the internet, whether that be website, applications, or anything in between.
+A passionate fronted developer based in Wroclaw, Poland and also a computer science student. I enjoy creating things that live on the internet, whether that be website, applications, or anything in between.
 
 - I'm currently learning React, Redux and in the near future Typerscript
 
